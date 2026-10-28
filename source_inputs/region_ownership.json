@@ -1,0 +1,1446 @@
+{
+  "AM": {
+    "2601": [
+      "Craniofacial_Bones",
+      "AM_FrontalBone",
+      "cortical"
+    ],
+    "2600": [
+      "Craniofacial_Bones",
+      "AM_FrontalBone",
+      "cortical"
+    ],
+    "2701": [
+      "Craniofacial_Bones",
+      "AM_FrontalBone",
+      "spongiosa"
+    ],
+    "2700": [
+      "Craniofacial_Bones",
+      "AM_FrontalBone",
+      "spongiosa"
+    ],
+    "2602": [
+      "Craniofacial_Bones",
+      "AM_OccipitalBone",
+      "cortical"
+    ],
+    "2702": [
+      "Craniofacial_Bones",
+      "AM_OccipitalBone",
+      "spongiosa"
+    ],
+    "2603": [
+      "Craniofacial_Bones",
+      "AM_ParietalBone",
+      "cortical"
+    ],
+    "2703": [
+      "Craniofacial_Bones",
+      "AM_ParietalBone",
+      "spongiosa"
+    ],
+    "3900": [
+      "Mandible",
+      "AM_Mandible",
+      "cortical"
+    ],
+    "4000": [
+      "Mandible",
+      "AM_Mandible",
+      "spongiosa"
+    ],
+    "4500": [
+      "Scapulae",
+      "AM_RightScapula",
+      "cortical"
+    ],
+    "4600": [
+      "Scapulae",
+      "AM_RightScapula",
+      "spongiosa"
+    ],
+    "2400": [
+      "Clavicles",
+      "AM_RightClavicle",
+      "cortical"
+    ],
+    "2500": [
+      "Clavicles",
+      "AM_RightClavicle",
+      "spongiosa"
+    ],
+    "5500": [
+      "Sternum",
+      "AM_Sternum",
+      "cortical"
+    ],
+    "5600": [
+      "Sternum",
+      "AM_Sternum",
+      "spongiosa"
+    ],
+    "4301": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "cortical"
+    ],
+    "4302": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "cortical"
+    ],
+    "4303": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "cortical"
+    ],
+    "4304": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "cortical"
+    ],
+    "4401": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "spongiosa"
+    ],
+    "4402": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "spongiosa"
+    ],
+    "4403": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "spongiosa"
+    ],
+    "4404": [
+      "Ribs",
+      "AM_RightUpperRib",
+      "spongiosa"
+    ],
+    "4305": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "cortical"
+    ],
+    "4306": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "cortical"
+    ],
+    "4405": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "spongiosa"
+    ],
+    "4406": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "spongiosa"
+    ],
+    "4307": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "cortical"
+    ],
+    "4308": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "cortical"
+    ],
+    "4407": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "spongiosa"
+    ],
+    "4408": [
+      "Ribs",
+      "AM_RightMiddleRib",
+      "spongiosa"
+    ],
+    "4309": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "cortical"
+    ],
+    "4310": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "cortical"
+    ],
+    "4311": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "cortical"
+    ],
+    "4312": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "cortical"
+    ],
+    "4409": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "spongiosa"
+    ],
+    "4410": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "spongiosa"
+    ],
+    "4411": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "spongiosa"
+    ],
+    "4412": [
+      "Ribs",
+      "AM_RightLowerRib",
+      "spongiosa"
+    ],
+    "4701": [
+      "Cervical_Vertebrae",
+      "AM_C3",
+      "cortical"
+    ],
+    "4702": [
+      "Cervical_Vertebrae",
+      "AM_C3",
+      "cortical"
+    ],
+    "4703": [
+      "Cervical_Vertebrae",
+      "AM_C3",
+      "cortical"
+    ],
+    "4801": [
+      "Cervical_Vertebrae",
+      "AM_C3",
+      "spongiosa"
+    ],
+    "4802": [
+      "Cervical_Vertebrae",
+      "AM_C3",
+      "spongiosa"
+    ],
+    "4803": [
+      "Cervical_Vertebrae",
+      "AM_C3",
+      "spongiosa"
+    ],
+    "4704": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "cortical"
+    ],
+    "4705": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "cortical"
+    ],
+    "4706": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "cortical"
+    ],
+    "4707": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "cortical"
+    ],
+    "4804": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "spongiosa"
+    ],
+    "4805": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "spongiosa"
+    ],
+    "4806": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "spongiosa"
+    ],
+    "4807": [
+      "Cervical_Vertebrae",
+      "AM_C6",
+      "spongiosa"
+    ],
+    "4901": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "cortical"
+    ],
+    "4902": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "cortical"
+    ],
+    "5001": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "spongiosa"
+    ],
+    "5002": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "spongiosa"
+    ],
+    "4903": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "cortical"
+    ],
+    "4904": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "cortical"
+    ],
+    "5003": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "spongiosa"
+    ],
+    "5004": [
+      "Thoracic_Vertebrae",
+      "AM_T3",
+      "spongiosa"
+    ],
+    "4905": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "cortical"
+    ],
+    "4906": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "cortical"
+    ],
+    "4907": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "cortical"
+    ],
+    "5005": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "spongiosa"
+    ],
+    "5006": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "spongiosa"
+    ],
+    "5007": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "spongiosa"
+    ],
+    "4908": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "cortical"
+    ],
+    "5008": [
+      "Thoracic_Vertebrae",
+      "AM_T6",
+      "spongiosa"
+    ],
+    "4909": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "cortical"
+    ],
+    "4910": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "cortical"
+    ],
+    "5009": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "spongiosa"
+    ],
+    "5010": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "spongiosa"
+    ],
+    "4911": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "cortical"
+    ],
+    "5011": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "spongiosa"
+    ],
+    "4912": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "cortical"
+    ],
+    "5012": [
+      "Thoracic_Vertebrae",
+      "AM_T11",
+      "spongiosa"
+    ],
+    "5101": [
+      "Lumbar_Vertebrae",
+      "AM_L1",
+      "cortical"
+    ],
+    "5201": [
+      "Lumbar_Vertebrae",
+      "AM_L1",
+      "spongiosa"
+    ],
+    "5102": [
+      "Lumbar_Vertebrae",
+      "AM_L2",
+      "cortical"
+    ],
+    "5202": [
+      "Lumbar_Vertebrae",
+      "AM_L2",
+      "spongiosa"
+    ],
+    "5103": [
+      "Lumbar_Vertebrae",
+      "AM_L3",
+      "cortical"
+    ],
+    "5203": [
+      "Lumbar_Vertebrae",
+      "AM_L3",
+      "spongiosa"
+    ],
+    "5104": [
+      "Lumbar_Vertebrae",
+      "AM_L4",
+      "cortical"
+    ],
+    "5204": [
+      "Lumbar_Vertebrae",
+      "AM_L4",
+      "spongiosa"
+    ],
+    "5105": [
+      "Lumbar_Vertebrae",
+      "AM_L5",
+      "cortical"
+    ],
+    "5205": [
+      "Lumbar_Vertebrae",
+      "AM_L5",
+      "spongiosa"
+    ],
+    "5300": [
+      "Sacrum",
+      "AM_Sacrum",
+      "cortical"
+    ],
+    "5400": [
+      "Sacrum",
+      "AM_Sacrum",
+      "spongiosa"
+    ],
+    "4100": [
+      "Os_Coxae",
+      "AM_Ilium",
+      "cortical"
+    ],
+    "4200": [
+      "Os_Coxae",
+      "AM_Ilium",
+      "spongiosa"
+    ],
+    "1300": [
+      "Humeri_Proximal",
+      "AM_HumProx",
+      "cortical"
+    ],
+    "1400": [
+      "Humeri_Proximal",
+      "AM_HumProx",
+      "spongiosa"
+    ],
+    "1301": [
+      "Humeri_Upper_Shafts",
+      "AM_Humeri_Upper_Shafts",
+      "cortical"
+    ],
+    "1500": [
+      "Humeri_Upper_Shafts",
+      "AM_Humeri_Upper_Shafts",
+      "medullary"
+    ],
+    "1501": [
+      "Humeri_Upper_Shafts",
+      "AM_Humeri_Upper_Shafts",
+      "medullary"
+    ],
+    "1601": [
+      "Humeri_Lower_Shafts",
+      "AM_Humeri_Lower_Shafts",
+      "cortical"
+    ],
+    "1800": [
+      "Humeri_Lower_Shafts",
+      "AM_Humeri_Lower_Shafts",
+      "medullary"
+    ],
+    "1801": [
+      "Humeri_Lower_Shafts",
+      "AM_Humeri_Lower_Shafts",
+      "medullary"
+    ],
+    "1600": [
+      "Humeri_Distal",
+      "AM_DistalHum",
+      "cortical"
+    ],
+    "1700": [
+      "Humeri_Distal",
+      "AM_DistalHum",
+      "spongiosa"
+    ],
+    "1900": [
+      "Radii_Proximal",
+      "AM_ProxRadius",
+      "cortical"
+    ],
+    "2001": [
+      "Radii_Proximal",
+      "AM_ProxRadius",
+      "spongiosa"
+    ],
+    "1901": [
+      "Radii_Shafts",
+      "AM_Radii_Shafts",
+      "cortical"
+    ],
+    "2100": [
+      "Radii_Shafts",
+      "AM_Radii_Shafts",
+      "medullary"
+    ],
+    "2101": [
+      "Radii_Shafts",
+      "AM_Radii_Shafts",
+      "medullary"
+    ],
+    "1902": [
+      "Radii_Distal",
+      "AM_DistalRadius",
+      "cortical"
+    ],
+    "2002": [
+      "Radii_Distal",
+      "AM_DistalRadius",
+      "spongiosa"
+    ],
+    "1910": [
+      "Ulnae_Proximal",
+      "AM_ProxUlna",
+      "cortical"
+    ],
+    "2011": [
+      "Ulnae_Proximal",
+      "AM_ProxUlna",
+      "spongiosa"
+    ],
+    "1911": [
+      "Ulnae_Shafts",
+      "AM_Ulnae_Shafts",
+      "cortical"
+    ],
+    "2110": [
+      "Ulnae_Shafts",
+      "AM_Ulnae_Shafts",
+      "medullary"
+    ],
+    "2111": [
+      "Ulnae_Shafts",
+      "AM_Ulnae_Shafts",
+      "medullary"
+    ],
+    "1912": [
+      "Ulnae_Distal",
+      "AM_DistalUlna",
+      "cortical"
+    ],
+    "2012": [
+      "Ulnae_Distal",
+      "AM_DistalUlna",
+      "spongiosa"
+    ],
+    "2200": [
+      "Wrists_And_Hands",
+      "AM_Wrists_And_Hands",
+      "cortical"
+    ],
+    "2300": [
+      "Wrists_And_Hands",
+      "AM_Wrists_And_Hands",
+      "spongiosa"
+    ],
+    "2800": [
+      "Femora_Proximal",
+      null,
+      "cortical"
+    ],
+    "2901": [
+      "Femora_Proximal",
+      "AM_FemHead",
+      "spongiosa"
+    ],
+    "2900": [
+      "Femora_Proximal",
+      "AM_FemNeck",
+      "spongiosa"
+    ],
+    "2801": [
+      "Femora_Upper_Shafts",
+      "AM_Femora_Upper_Shafts",
+      "cortical"
+    ],
+    "3000": [
+      "Femora_Upper_Shafts",
+      "AM_Femora_Upper_Shafts",
+      "medullary"
+    ],
+    "3001": [
+      "Femora_Upper_Shafts",
+      "AM_Femora_Upper_Shafts",
+      "medullary"
+    ],
+    "3101": [
+      "Femora_Lower_Shafts",
+      "AM_Femora_Lower_Shafts",
+      "cortical"
+    ],
+    "3300": [
+      "Femora_Lower_Shafts",
+      "AM_Femora_Lower_Shafts",
+      "medullary"
+    ],
+    "3301": [
+      "Femora_Lower_Shafts",
+      "AM_Femora_Lower_Shafts",
+      "medullary"
+    ],
+    "3100": [
+      "Femora_Distal",
+      "AM_DistalFemur",
+      "cortical"
+    ],
+    "3200": [
+      "Femora_Distal",
+      "AM_DistalFemur",
+      "spongiosa"
+    ],
+    "3420": [
+      "Patellae",
+      "AM_Patellae",
+      "cortical"
+    ],
+    "3520": [
+      "Patellae",
+      "AM_Patellae",
+      "spongiosa"
+    ],
+    "3400": [
+      "Tibiae_Proximal",
+      "AM_ProxTibia",
+      "cortical"
+    ],
+    "3501": [
+      "Tibiae_Proximal",
+      "AM_ProxTibia",
+      "spongiosa"
+    ],
+    "3401": [
+      "Tibiae_Shafts",
+      "AM_Tibiae_Shafts",
+      "cortical"
+    ],
+    "3600": [
+      "Tibiae_Shafts",
+      "AM_Tibiae_Shafts",
+      "medullary"
+    ],
+    "3601": [
+      "Tibiae_Shafts",
+      "AM_Tibiae_Shafts",
+      "medullary"
+    ],
+    "3402": [
+      "Tibiae_Distal",
+      "AM_DistalTibia",
+      "cortical"
+    ],
+    "3502": [
+      "Tibiae_Distal",
+      "AM_DistalTibia",
+      "spongiosa"
+    ],
+    "3410": [
+      "Fibulae_Proximal",
+      "AM_ProxFibula",
+      "cortical"
+    ],
+    "3511": [
+      "Fibulae_Proximal",
+      "AM_ProxFibula",
+      "spongiosa"
+    ],
+    "3412": [
+      "Fibulae_Distal",
+      "AM_DistalFibula",
+      "cortical"
+    ],
+    "3512": [
+      "Fibulae_Distal",
+      "AM_DistalFibula",
+      "spongiosa"
+    ],
+    "3700": [
+      "Ankles_And_Feet",
+      "AM_Ankles_And_Feet",
+      "cortical"
+    ],
+    "3800": [
+      "Ankles_And_Feet",
+      "AM_Ankles_And_Feet",
+      "spongiosa"
+    ]
+  },
+  "AF": {
+    "2601": [
+      "Craniofacial_Bones",
+      "AF_Frontal",
+      "cortical"
+    ],
+    "2600": [
+      "Craniofacial_Bones",
+      "AF_Frontal",
+      "cortical"
+    ],
+    "2701": [
+      "Craniofacial_Bones",
+      "AF_Frontal",
+      "spongiosa"
+    ],
+    "2700": [
+      "Craniofacial_Bones",
+      "AF_Frontal",
+      "spongiosa"
+    ],
+    "2602": [
+      "Craniofacial_Bones",
+      "AF_Occipital",
+      "cortical"
+    ],
+    "2702": [
+      "Craniofacial_Bones",
+      "AF_Occipital",
+      "spongiosa"
+    ],
+    "2603": [
+      "Craniofacial_Bones",
+      "AF_Parietal",
+      "cortical"
+    ],
+    "2703": [
+      "Craniofacial_Bones",
+      "AF_Parietal",
+      "spongiosa"
+    ],
+    "3900": [
+      "Mandible",
+      "AF_Mandible",
+      "cortical"
+    ],
+    "4000": [
+      "Mandible",
+      "AF_Mandible",
+      "spongiosa"
+    ],
+    "4500": [
+      "Scapulae",
+      "AF_Scapula",
+      "cortical"
+    ],
+    "4600": [
+      "Scapulae",
+      "AF_Scapula",
+      "spongiosa"
+    ],
+    "2400": [
+      "Clavicles",
+      "AF_Clavicle",
+      "cortical"
+    ],
+    "2500": [
+      "Clavicles",
+      "AF_Clavicle",
+      "spongiosa"
+    ],
+    "5500": [
+      "Sternum",
+      "AF_Sternum",
+      "cortical"
+    ],
+    "5600": [
+      "Sternum",
+      "AF_Sternum",
+      "spongiosa"
+    ],
+    "4301": [
+      "Ribs",
+      "AF_RibUpper",
+      "cortical"
+    ],
+    "4302": [
+      "Ribs",
+      "AF_RibUpper",
+      "cortical"
+    ],
+    "4303": [
+      "Ribs",
+      "AF_RibUpper",
+      "cortical"
+    ],
+    "4304": [
+      "Ribs",
+      "AF_RibUpper",
+      "cortical"
+    ],
+    "4401": [
+      "Ribs",
+      "AF_RibUpper",
+      "spongiosa"
+    ],
+    "4402": [
+      "Ribs",
+      "AF_RibUpper",
+      "spongiosa"
+    ],
+    "4403": [
+      "Ribs",
+      "AF_RibUpper",
+      "spongiosa"
+    ],
+    "4404": [
+      "Ribs",
+      "AF_RibUpper",
+      "spongiosa"
+    ],
+    "4305": [
+      "Ribs",
+      "AF_RibUpper",
+      "cortical"
+    ],
+    "4306": [
+      "Ribs",
+      "AF_RibUpper",
+      "cortical"
+    ],
+    "4405": [
+      "Ribs",
+      "AF_RibUpper",
+      "spongiosa"
+    ],
+    "4406": [
+      "Ribs",
+      "AF_RibUpper",
+      "spongiosa"
+    ],
+    "4307": [
+      "Ribs",
+      "AF_RibLower",
+      "cortical"
+    ],
+    "4308": [
+      "Ribs",
+      "AF_RibLower",
+      "cortical"
+    ],
+    "4407": [
+      "Ribs",
+      "AF_RibLower",
+      "spongiosa"
+    ],
+    "4408": [
+      "Ribs",
+      "AF_RibLower",
+      "spongiosa"
+    ],
+    "4309": [
+      "Ribs",
+      "AF_RibLower",
+      "cortical"
+    ],
+    "4310": [
+      "Ribs",
+      "AF_RibLower",
+      "cortical"
+    ],
+    "4311": [
+      "Ribs",
+      "AF_RibLower",
+      "cortical"
+    ],
+    "4312": [
+      "Ribs",
+      "AF_RibLower",
+      "cortical"
+    ],
+    "4409": [
+      "Ribs",
+      "AF_RibLower",
+      "spongiosa"
+    ],
+    "4410": [
+      "Ribs",
+      "AF_RibLower",
+      "spongiosa"
+    ],
+    "4411": [
+      "Ribs",
+      "AF_RibLower",
+      "spongiosa"
+    ],
+    "4412": [
+      "Ribs",
+      "AF_RibLower",
+      "spongiosa"
+    ],
+    "4701": [
+      "Cervical_Vertebrae",
+      "AF_C3",
+      "cortical"
+    ],
+    "4702": [
+      "Cervical_Vertebrae",
+      "AF_C3",
+      "cortical"
+    ],
+    "4703": [
+      "Cervical_Vertebrae",
+      "AF_C3",
+      "cortical"
+    ],
+    "4801": [
+      "Cervical_Vertebrae",
+      "AF_C3",
+      "spongiosa"
+    ],
+    "4802": [
+      "Cervical_Vertebrae",
+      "AF_C3",
+      "spongiosa"
+    ],
+    "4803": [
+      "Cervical_Vertebrae",
+      "AF_C3",
+      "spongiosa"
+    ],
+    "4704": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "cortical"
+    ],
+    "4705": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "cortical"
+    ],
+    "4706": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "cortical"
+    ],
+    "4707": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "cortical"
+    ],
+    "4804": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "spongiosa"
+    ],
+    "4805": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "spongiosa"
+    ],
+    "4806": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "spongiosa"
+    ],
+    "4807": [
+      "Cervical_Vertebrae",
+      "AF_C6",
+      "spongiosa"
+    ],
+    "4901": [
+      "Thoracic_Vertebrae",
+      "AF_T1",
+      "cortical"
+    ],
+    "4902": [
+      "Thoracic_Vertebrae",
+      "AF_T1",
+      "cortical"
+    ],
+    "5001": [
+      "Thoracic_Vertebrae",
+      "AF_T1",
+      "spongiosa"
+    ],
+    "5002": [
+      "Thoracic_Vertebrae",
+      "AF_T1",
+      "spongiosa"
+    ],
+    "4903": [
+      "Thoracic_Vertebrae",
+      "AF_T3",
+      "cortical"
+    ],
+    "4904": [
+      "Thoracic_Vertebrae",
+      "AF_T3",
+      "cortical"
+    ],
+    "5003": [
+      "Thoracic_Vertebrae",
+      "AF_T3",
+      "spongiosa"
+    ],
+    "5004": [
+      "Thoracic_Vertebrae",
+      "AF_T3",
+      "spongiosa"
+    ],
+    "4905": [
+      "Thoracic_Vertebrae",
+      "AF_T6",
+      "cortical"
+    ],
+    "4906": [
+      "Thoracic_Vertebrae",
+      "AF_T6",
+      "cortical"
+    ],
+    "4907": [
+      "Thoracic_Vertebrae",
+      "AF_T6",
+      "cortical"
+    ],
+    "5005": [
+      "Thoracic_Vertebrae",
+      "AF_T6",
+      "spongiosa"
+    ],
+    "5006": [
+      "Thoracic_Vertebrae",
+      "AF_T6",
+      "spongiosa"
+    ],
+    "5007": [
+      "Thoracic_Vertebrae",
+      "AF_T6",
+      "spongiosa"
+    ],
+    "4908": [
+      "Thoracic_Vertebrae",
+      "AF_T9",
+      "cortical"
+    ],
+    "5008": [
+      "Thoracic_Vertebrae",
+      "AF_T9",
+      "spongiosa"
+    ],
+    "4909": [
+      "Thoracic_Vertebrae",
+      "AF_T9",
+      "cortical"
+    ],
+    "4910": [
+      "Thoracic_Vertebrae",
+      "AF_T9",
+      "cortical"
+    ],
+    "5009": [
+      "Thoracic_Vertebrae",
+      "AF_T9",
+      "spongiosa"
+    ],
+    "5010": [
+      "Thoracic_Vertebrae",
+      "AF_T9",
+      "spongiosa"
+    ],
+    "4911": [
+      "Thoracic_Vertebrae",
+      "AF_T12",
+      "cortical"
+    ],
+    "5011": [
+      "Thoracic_Vertebrae",
+      "AF_T12",
+      "spongiosa"
+    ],
+    "4912": [
+      "Thoracic_Vertebrae",
+      "AF_T12",
+      "cortical"
+    ],
+    "5012": [
+      "Thoracic_Vertebrae",
+      "AF_T12",
+      "spongiosa"
+    ],
+    "5101": [
+      "Lumbar_Vertebrae",
+      "AF_L1",
+      "cortical"
+    ],
+    "5201": [
+      "Lumbar_Vertebrae",
+      "AF_L1",
+      "spongiosa"
+    ],
+    "5102": [
+      "Lumbar_Vertebrae",
+      "AF_L2",
+      "cortical"
+    ],
+    "5202": [
+      "Lumbar_Vertebrae",
+      "AF_L2",
+      "spongiosa"
+    ],
+    "5103": [
+      "Lumbar_Vertebrae",
+      "AF_L3",
+      "cortical"
+    ],
+    "5203": [
+      "Lumbar_Vertebrae",
+      "AF_L3",
+      "spongiosa"
+    ],
+    "5104": [
+      "Lumbar_Vertebrae",
+      "AF_L4",
+      "cortical"
+    ],
+    "5204": [
+      "Lumbar_Vertebrae",
+      "AF_L4",
+      "spongiosa"
+    ],
+    "5105": [
+      "Lumbar_Vertebrae",
+      "AF_L5",
+      "cortical"
+    ],
+    "5205": [
+      "Lumbar_Vertebrae",
+      "AF_L5",
+      "spongiosa"
+    ],
+    "5300": [
+      "Sacrum",
+      "AF_Sacrum",
+      "cortical"
+    ],
+    "5400": [
+      "Sacrum",
+      "AF_Sacrum",
+      "spongiosa"
+    ],
+    "4100": [
+      "Os_Coxae",
+      "AF_OsCoxae",
+      "cortical"
+    ],
+    "4200": [
+      "Os_Coxae",
+      "AF_OsCoxae",
+      "spongiosa"
+    ],
+    "1300": [
+      "Humeri_Proximal",
+      "AF_ProxHumerus",
+      "cortical"
+    ],
+    "1400": [
+      "Humeri_Proximal",
+      "AF_ProxHumerus",
+      "spongiosa"
+    ],
+    "1301": [
+      "Humeri_Upper_Shafts",
+      "AF_Humeri_Upper_Shafts",
+      "cortical"
+    ],
+    "1500": [
+      "Humeri_Upper_Shafts",
+      "AF_Humeri_Upper_Shafts",
+      "medullary"
+    ],
+    "1501": [
+      "Humeri_Upper_Shafts",
+      "AF_Humeri_Upper_Shafts",
+      "medullary"
+    ],
+    "1601": [
+      "Humeri_Lower_Shafts",
+      "AF_Humeri_Lower_Shafts",
+      "cortical"
+    ],
+    "1800": [
+      "Humeri_Lower_Shafts",
+      "AF_Humeri_Lower_Shafts",
+      "medullary"
+    ],
+    "1801": [
+      "Humeri_Lower_Shafts",
+      "AF_Humeri_Lower_Shafts",
+      "medullary"
+    ],
+    "1600": [
+      "Humeri_Distal",
+      "AF_Distal_Humerus",
+      "cortical"
+    ],
+    "1700": [
+      "Humeri_Distal",
+      "AF_Distal_Humerus",
+      "spongiosa"
+    ],
+    "1900": [
+      "Radii_Proximal",
+      "AF_ProxRadius",
+      "cortical"
+    ],
+    "2001": [
+      "Radii_Proximal",
+      "AF_ProxRadius",
+      "spongiosa"
+    ],
+    "1901": [
+      "Radii_Shafts",
+      "AF_Radii_Shafts",
+      "cortical"
+    ],
+    "2100": [
+      "Radii_Shafts",
+      "AF_Radii_Shafts",
+      "medullary"
+    ],
+    "2101": [
+      "Radii_Shafts",
+      "AF_Radii_Shafts",
+      "medullary"
+    ],
+    "1902": [
+      "Radii_Distal",
+      "AF_Distal_Radius",
+      "cortical"
+    ],
+    "2002": [
+      "Radii_Distal",
+      "AF_Distal_Radius",
+      "spongiosa"
+    ],
+    "1910": [
+      "Ulnae_Proximal",
+      "AF_ProxUlna",
+      "cortical"
+    ],
+    "2011": [
+      "Ulnae_Proximal",
+      "AF_ProxUlna",
+      "spongiosa"
+    ],
+    "1911": [
+      "Ulnae_Shafts",
+      "AF_Ulnae_Shafts",
+      "cortical"
+    ],
+    "2110": [
+      "Ulnae_Shafts",
+      "AF_Ulnae_Shafts",
+      "medullary"
+    ],
+    "2111": [
+      "Ulnae_Shafts",
+      "AF_Ulnae_Shafts",
+      "medullary"
+    ],
+    "1912": [
+      "Ulnae_Distal",
+      "AF_Distal_Ulna",
+      "cortical"
+    ],
+    "2012": [
+      "Ulnae_Distal",
+      "AF_Distal_Ulna",
+      "spongiosa"
+    ],
+    "2200": [
+      "Wrists_And_Hands",
+      "AF_Wrists_And_Hands",
+      "cortical"
+    ],
+    "2300": [
+      "Wrists_And_Hands",
+      "AF_Wrists_And_Hands",
+      "spongiosa"
+    ],
+    "2800": [
+      "Femora_Proximal",
+      null,
+      "cortical"
+    ],
+    "2901": [
+      "Femora_Proximal",
+      "AF_ProxFemurHead",
+      "spongiosa"
+    ],
+    "2900": [
+      "Femora_Proximal",
+      "AF_ProxFemurNeck",
+      "spongiosa"
+    ],
+    "2801": [
+      "Femora_Upper_Shafts",
+      "AF_Femora_Upper_Shafts",
+      "cortical"
+    ],
+    "3000": [
+      "Femora_Upper_Shafts",
+      "AF_Femora_Upper_Shafts",
+      "medullary"
+    ],
+    "3001": [
+      "Femora_Upper_Shafts",
+      "AF_Femora_Upper_Shafts",
+      "medullary"
+    ],
+    "3101": [
+      "Femora_Lower_Shafts",
+      "AF_Femora_Lower_Shafts",
+      "cortical"
+    ],
+    "3300": [
+      "Femora_Lower_Shafts",
+      "AF_Femora_Lower_Shafts",
+      "medullary"
+    ],
+    "3301": [
+      "Femora_Lower_Shafts",
+      "AF_Femora_Lower_Shafts",
+      "medullary"
+    ],
+    "3100": [
+      "Femora_Distal",
+      "AF_Distal_Femur",
+      "cortical"
+    ],
+    "3200": [
+      "Femora_Distal",
+      "AF_Distal_Femur",
+      "spongiosa"
+    ],
+    "3420": [
+      "Patellae",
+      "AF_Patella",
+      "cortical"
+    ],
+    "3520": [
+      "Patellae",
+      "AF_Patella",
+      "spongiosa"
+    ],
+    "3400": [
+      "Tibiae_Proximal",
+      "AF_ProxTibia",
+      "cortical"
+    ],
+    "3501": [
+      "Tibiae_Proximal",
+      "AF_ProxTibia",
+      "spongiosa"
+    ],
+    "3401": [
+      "Tibiae_Shafts",
+      "AF_Tibiae_Shafts",
+      "cortical"
+    ],
+    "3600": [
+      "Tibiae_Shafts",
+      "AF_Tibiae_Shafts",
+      "medullary"
+    ],
+    "3601": [
+      "Tibiae_Shafts",
+      "AF_Tibiae_Shafts",
+      "medullary"
+    ],
+    "3402": [
+      "Tibiae_Distal",
+      "AF_Distal_Tibia",
+      "cortical"
+    ],
+    "3502": [
+      "Tibiae_Distal",
+      "AF_Distal_Tibia",
+      "spongiosa"
+    ],
+    "3410": [
+      "Fibulae_Proximal",
+      "AF_ProxFibula",
+      "cortical"
+    ],
+    "3511": [
+      "Fibulae_Proximal",
+      "AF_ProxFibula",
+      "spongiosa"
+    ],
+    "3412": [
+      "Fibulae_Distal",
+      "AF_Distal_Fibula",
+      "cortical"
+    ],
+    "3512": [
+      "Fibulae_Distal",
+      "AF_Distal_Fibula",
+      "spongiosa"
+    ],
+    "3700": [
+      "Ankles_And_Feet",
+      "AF_Foot",
+      "cortical"
+    ],
+    "3800": [
+      "Ankles_And_Feet",
+      "AF_Foot",
+      "spongiosa"
+    ]
+  }
+}

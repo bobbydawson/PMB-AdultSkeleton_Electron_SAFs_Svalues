@@ -1,0 +1,1888 @@
+{
+  "Mandible": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_Mandible",
+        "micro": "AM_Mandible",
+        "macro_groups": [
+          {
+            "cort": [
+              3900
+            ],
+            "spong": [
+              4000
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Mandible",
+        "micro": "AF_Mandible",
+        "macro_groups": [
+          {
+            "cort": [
+              3900
+            ],
+            "spong": [
+              4000
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Scapulae": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_RightScapula",
+        "micro": "AM_RightScapula",
+        "macro_groups": [
+          {
+            "cort": [
+              4500
+            ],
+            "spong": [
+              4600
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Scapula",
+        "micro": "AF_Scapula",
+        "macro_groups": [
+          {
+            "cort": [
+              4500
+            ],
+            "spong": [
+              4600
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Clavicles": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_RightClavicle",
+        "micro": "AM_RightClavicle",
+        "macro_groups": [
+          {
+            "cort": [
+              2400
+            ],
+            "spong": [
+              2500
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Clavicle",
+        "micro": "AF_Clavicle",
+        "macro_groups": [
+          {
+            "cort": [
+              2400
+            ],
+            "spong": [
+              2500
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Sternum": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_Sternum",
+        "micro": "AM_Sternum",
+        "macro_groups": [
+          {
+            "cort": [
+              5500
+            ],
+            "spong": [
+              5600
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Sternum",
+        "micro": "AF_Sternum",
+        "macro_groups": [
+          {
+            "cort": [
+              5500
+            ],
+            "spong": [
+              5600
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Sacrum": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_Sacrum",
+        "micro": "AM_Sacrum",
+        "macro_groups": [
+          {
+            "cort": [
+              5300
+            ],
+            "spong": [
+              5400
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Sacrum",
+        "micro": "AF_Sacrum",
+        "macro_groups": [
+          {
+            "cort": [
+              5300
+            ],
+            "spong": [
+              5400
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Os_Coxae": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_Ilium",
+        "micro": "AM_Ilium",
+        "macro_groups": [
+          {
+            "cort": [
+              4100
+            ],
+            "spong": [
+              4200
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_OsCoxae",
+        "micro": "AF_OsCoxae",
+        "macro_groups": [
+          {
+            "cort": [
+              4100
+            ],
+            "spong": [
+              4200
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Humeri_Proximal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_HumProx",
+        "micro": "AM_HumProx_new",
+        "macro_groups": [
+          {
+            "cort": [
+              1300
+            ],
+            "spong": [
+              1400
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_ProxHumerus",
+        "micro": "AF_ProxHumerus",
+        "macro_groups": [
+          {
+            "cort": [
+              1300
+            ],
+            "spong": [
+              1400
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Humeri_Distal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_DistalHum",
+        "micro": "AM_DistalHum",
+        "macro_groups": [
+          {
+            "cort": [
+              1600
+            ],
+            "spong": [
+              1700
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Distal_Humerus",
+        "micro": "AF_Distal_Humerus",
+        "macro_groups": [
+          {
+            "cort": [
+              1600
+            ],
+            "spong": [
+              1700
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Radii_Proximal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_ProxRadius",
+        "micro": "AM_ProxRadius",
+        "macro_groups": [
+          {
+            "cort": [
+              1900
+            ],
+            "spong": [
+              2001
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_ProxRadius",
+        "micro": "AF_ProxRadius",
+        "macro_groups": [
+          {
+            "cort": [
+              1900
+            ],
+            "spong": [
+              2001
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Radii_Distal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_DistalRadius",
+        "micro": "AM_DistalRadius",
+        "macro_groups": [
+          {
+            "cort": [
+              1902
+            ],
+            "spong": [
+              2002
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Distal_Radius",
+        "micro": "AF_Distal_Radius",
+        "macro_groups": [
+          {
+            "cort": [
+              1902
+            ],
+            "spong": [
+              2002
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Ulnae_Proximal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_ProxUlna",
+        "micro": "AM_ProxUlna",
+        "macro_groups": [
+          {
+            "cort": [
+              1910
+            ],
+            "spong": [
+              2011
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_ProxUlna",
+        "micro": "AF_ProxUlna",
+        "macro_groups": [
+          {
+            "cort": [
+              1910
+            ],
+            "spong": [
+              2011
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Ulnae_Distal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_DistalUlna",
+        "micro": "AM_DistalUlna",
+        "macro_groups": [
+          {
+            "cort": [
+              1912
+            ],
+            "spong": [
+              2012
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Distal_Ulna",
+        "micro": "AF_Distal_Ulna",
+        "macro_groups": [
+          {
+            "cort": [
+              1912
+            ],
+            "spong": [
+              2012
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Wrists_And_Hands": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_Wrists_And_Hands",
+        "micro": "AM_DistalHum",
+        "macro_groups": [
+          {
+            "cort": [
+              2200
+            ],
+            "spong": [
+              2300
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Wrists_And_Hands",
+        "micro": "AF_Distal_Humerus",
+        "macro_groups": [
+          {
+            "cort": [
+              2200
+            ],
+            "spong": [
+              2300
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Femora_Distal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_DistalFemur",
+        "micro": "AM_DistalFemur",
+        "macro_groups": [
+          {
+            "cort": [
+              3100
+            ],
+            "spong": [
+              3200
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Distal_Femur",
+        "micro": "AF_Distal_Femur",
+        "macro_groups": [
+          {
+            "cort": [
+              3100
+            ],
+            "spong": [
+              3200
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Patellae": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_Patellae",
+        "micro": "AM_DistalFemur",
+        "macro_groups": [
+          {
+            "cort": [
+              3420
+            ],
+            "spong": [
+              3520
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Patella",
+        "micro": "AF_Patella",
+        "macro_groups": [
+          {
+            "cort": [
+              3420
+            ],
+            "spong": [
+              3520
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Tibiae_Proximal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_ProxTibia",
+        "micro": "AM_ProxTibia",
+        "macro_groups": [
+          {
+            "cort": [
+              3400
+            ],
+            "spong": [
+              3501
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_ProxTibia",
+        "micro": "AF_ProxTibia",
+        "macro_groups": [
+          {
+            "cort": [
+              3400
+            ],
+            "spong": [
+              3501
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Tibiae_Distal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_DistalTibia",
+        "micro": "AM_DistalTibia",
+        "macro_groups": [
+          {
+            "cort": [
+              3402
+            ],
+            "spong": [
+              3502
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Distal_Tibia",
+        "micro": "AF_Distal_Tibia",
+        "macro_groups": [
+          {
+            "cort": [
+              3402
+            ],
+            "spong": [
+              3502
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Fibulae_Proximal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_ProxFibula",
+        "micro": "AM_ProxFibula",
+        "macro_groups": [
+          {
+            "cort": [
+              3410
+            ],
+            "spong": [
+              3511
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_ProxFibula",
+        "micro": "AF_ProxFibula",
+        "macro_groups": [
+          {
+            "cort": [
+              3410
+            ],
+            "spong": [
+              3511
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Fibulae_Distal": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_DistalFibula",
+        "micro": "AM_DistalFibula",
+        "macro_groups": [
+          {
+            "cort": [
+              3412
+            ],
+            "spong": [
+              3512
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Distal_Fibula",
+        "micro": "AF_Distal_Fibula",
+        "macro_groups": [
+          {
+            "cort": [
+              3412
+            ],
+            "spong": [
+              3512
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Ankles_And_Feet": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_Ankles_And_Feet",
+        "micro": "AM_DistalFemur",
+        "macro_groups": [
+          {
+            "cort": [
+              3700
+            ],
+            "spong": [
+              3800
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Foot",
+        "micro": "AF_Foot",
+        "macro_groups": [
+          {
+            "cort": [
+              3700
+            ],
+            "spong": [
+              3800
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "L1": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_L1",
+        "micro": "AM_L1",
+        "macro_groups": [
+          {
+            "cort": [
+              5101
+            ],
+            "spong": [
+              5201
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_L1",
+        "micro": "AF_L1",
+        "macro_groups": [
+          {
+            "cort": [
+              5101
+            ],
+            "spong": [
+              5201
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "L2": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_L2",
+        "micro": "AM_L2",
+        "macro_groups": [
+          {
+            "cort": [
+              5102
+            ],
+            "spong": [
+              5202
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_L2",
+        "micro": "AF_L2",
+        "macro_groups": [
+          {
+            "cort": [
+              5102
+            ],
+            "spong": [
+              5202
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "L3": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_L3",
+        "micro": "AM_L3",
+        "macro_groups": [
+          {
+            "cort": [
+              5103
+            ],
+            "spong": [
+              5203
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_L3",
+        "micro": "AF_L3",
+        "macro_groups": [
+          {
+            "cort": [
+              5103
+            ],
+            "spong": [
+              5203
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "L4": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_L4",
+        "micro": "AM_L4",
+        "macro_groups": [
+          {
+            "cort": [
+              5104
+            ],
+            "spong": [
+              5204
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_L4",
+        "micro": "AF_L4",
+        "macro_groups": [
+          {
+            "cort": [
+              5104
+            ],
+            "spong": [
+              5204
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "L5": {
+    "kind": "spongiosa",
+    "AM": [
+      {
+        "st": "AM_L5",
+        "micro": "AM_L5",
+        "macro_groups": [
+          {
+            "cort": [
+              5105
+            ],
+            "spong": [
+              5205
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_L5",
+        "micro": "AF_L5",
+        "macro_groups": [
+          {
+            "cort": [
+              5105
+            ],
+            "spong": [
+              5205
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Humeri_Upper_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Humeri_Upper_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1301
+            ],
+            "mc": [
+              1500,
+              1501
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Humeri_Upper_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1301
+            ],
+            "mc": [
+              1500,
+              1501
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Humeri_Lower_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Humeri_Lower_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1601
+            ],
+            "mc": [
+              1800,
+              1801
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Humeri_Lower_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1601
+            ],
+            "mc": [
+              1800,
+              1801
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Radii_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Radii_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1901
+            ],
+            "mc": [
+              2100,
+              2101
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Radii_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1901
+            ],
+            "mc": [
+              2100,
+              2101
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Ulnae_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Ulnae_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1911
+            ],
+            "mc": [
+              2110,
+              2111
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Ulnae_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              1911
+            ],
+            "mc": [
+              2110,
+              2111
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Femora_Upper_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Femora_Upper_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              2801
+            ],
+            "mc": [
+              3000,
+              3001
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Femora_Upper_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              2801
+            ],
+            "mc": [
+              3000,
+              3001
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Femora_Lower_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Femora_Lower_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              3101
+            ],
+            "mc": [
+              3300,
+              3301
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Femora_Lower_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              3101
+            ],
+            "mc": [
+              3300,
+              3301
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Tibiae_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Tibiae_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              3401
+            ],
+            "mc": [
+              3600,
+              3601
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Tibiae_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              3401
+            ],
+            "mc": [
+              3600,
+              3601
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Fibulae_Shafts": {
+    "kind": "shaft",
+    "AM": [
+      {
+        "st": "AM_Fibulae_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              3401
+            ],
+            "mc": [
+              3600,
+              3601
+            ],
+            "cort_surrogate": true,
+            "mc_surrogate": true
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Fibulae_Shafts",
+        "micro": null,
+        "macro_groups": [
+          {
+            "cort": [
+              3401
+            ],
+            "mc": [
+              3600,
+              3601
+            ],
+            "cort_surrogate": true,
+            "mc_surrogate": true
+          }
+        ]
+      }
+    ]
+  },
+  "Craniofacial_Bones": {
+    "kind": "aggregate",
+    "AM": [
+      {
+        "st": "AM_FrontalBone",
+        "micro": "AM_FrontalBone",
+        "macro_groups": [
+          {
+            "cort": [
+              2601,
+              2600
+            ],
+            "spong": [
+              2701,
+              2700
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_OccipitalBone",
+        "micro": "AM_OccipitalBone",
+        "macro_groups": [
+          {
+            "cort": [
+              2602
+            ],
+            "spong": [
+              2702
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_ParietalBone",
+        "micro": "AM_ParietalBone",
+        "macro_groups": [
+          {
+            "cort": [
+              2603
+            ],
+            "spong": [
+              2703
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_Frontal",
+        "micro": "AF_Frontal",
+        "macro_groups": [
+          {
+            "cort": [
+              2601,
+              2600
+            ],
+            "spong": [
+              2701,
+              2700
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_Occipital",
+        "micro": "AF_Occipital",
+        "macro_groups": [
+          {
+            "cort": [
+              2602
+            ],
+            "spong": [
+              2702
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_Parietal",
+        "micro": "AF_Parietal",
+        "macro_groups": [
+          {
+            "cort": [
+              2603
+            ],
+            "spong": [
+              2703
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Ribs": {
+    "kind": "aggregate",
+    "AM": [
+      {
+        "st": "AM_RightUpperRib",
+        "micro": "AM_RightUpperRib",
+        "macro_groups": [
+          {
+            "cort": [
+              4301,
+              4302,
+              4303,
+              4304
+            ],
+            "spong": [
+              4401,
+              4402,
+              4403,
+              4404
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_RightMiddleRib",
+        "micro": "AM_RightMiddleRib",
+        "macro_groups": [
+          {
+            "cort": [
+              4305,
+              4306
+            ],
+            "spong": [
+              4405,
+              4406
+            ]
+          },
+          {
+            "cort": [
+              4307,
+              4308
+            ],
+            "spong": [
+              4407,
+              4408
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_RightLowerRib",
+        "micro": "AM_RightLowerRib",
+        "macro_groups": [
+          {
+            "cort": [
+              4309,
+              4310,
+              4311,
+              4312
+            ],
+            "spong": [
+              4409,
+              4410,
+              4411,
+              4412
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_RibUpper",
+        "micro": "AF_RibUpper",
+        "macro_groups": [
+          {
+            "cort": [
+              4301,
+              4302,
+              4303,
+              4304
+            ],
+            "spong": [
+              4401,
+              4402,
+              4403,
+              4404
+            ]
+          },
+          {
+            "cort": [
+              4305,
+              4306
+            ],
+            "spong": [
+              4405,
+              4406
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_RibLower",
+        "micro": "AF_RibLower",
+        "macro_groups": [
+          {
+            "cort": [
+              4307,
+              4308
+            ],
+            "spong": [
+              4407,
+              4408
+            ]
+          },
+          {
+            "cort": [
+              4309,
+              4310,
+              4311,
+              4312
+            ],
+            "spong": [
+              4409,
+              4410,
+              4411,
+              4412
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Cervical_Vertebrae": {
+    "kind": "aggregate",
+    "AM": [
+      {
+        "st": "AM_C3",
+        "micro": "AM_C3",
+        "macro_groups": [
+          {
+            "cort": [
+              4701,
+              4702,
+              4703
+            ],
+            "spong": [
+              4801,
+              4802,
+              4803
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_C6",
+        "micro": "AM_C6",
+        "macro_groups": [
+          {
+            "cort": [
+              4704,
+              4705,
+              4706,
+              4707
+            ],
+            "spong": [
+              4804,
+              4805,
+              4806,
+              4807
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_C3",
+        "micro": "AF_C3",
+        "macro_groups": [
+          {
+            "cort": [
+              4701,
+              4702,
+              4703
+            ],
+            "spong": [
+              4801,
+              4802,
+              4803
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_C6",
+        "micro": "AF_C6",
+        "macro_groups": [
+          {
+            "cort": [
+              4704,
+              4705,
+              4706,
+              4707
+            ],
+            "spong": [
+              4804,
+              4805,
+              4806,
+              4807
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Thoracic_Vertebrae": {
+    "kind": "aggregate",
+    "AM": [
+      {
+        "st": "AM_T3",
+        "micro": "AM_T3",
+        "macro_groups": [
+          {
+            "cort": [
+              4901,
+              4902
+            ],
+            "spong": [
+              5001,
+              5002
+            ]
+          },
+          {
+            "cort": [
+              4903,
+              4904
+            ],
+            "spong": [
+              5003,
+              5004
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_T6",
+        "micro": "AM_T6",
+        "macro_groups": [
+          {
+            "cort": [
+              4905,
+              4906,
+              4907
+            ],
+            "spong": [
+              5005,
+              5006,
+              5007
+            ]
+          },
+          {
+            "cort": [
+              4908
+            ],
+            "spong": [
+              5008
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_T11",
+        "micro": "AM_T11",
+        "macro_groups": [
+          {
+            "cort": [
+              4909,
+              4910
+            ],
+            "spong": [
+              5009,
+              5010
+            ]
+          },
+          {
+            "cort": [
+              4911
+            ],
+            "spong": [
+              5011
+            ]
+          },
+          {
+            "cort": [
+              4912
+            ],
+            "spong": [
+              5012
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_T1",
+        "micro": "AF_T1",
+        "macro_groups": [
+          {
+            "cort": [
+              4901,
+              4902
+            ],
+            "spong": [
+              5001,
+              5002
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_T3",
+        "micro": "AF_T3",
+        "macro_groups": [
+          {
+            "cort": [
+              4903,
+              4904
+            ],
+            "spong": [
+              5003,
+              5004
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_T6",
+        "micro": "AF_T6",
+        "macro_groups": [
+          {
+            "cort": [
+              4905,
+              4906,
+              4907
+            ],
+            "spong": [
+              5005,
+              5006,
+              5007
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_T9",
+        "micro": "AF_T9",
+        "macro_groups": [
+          {
+            "cort": [
+              4908
+            ],
+            "spong": [
+              5008
+            ]
+          },
+          {
+            "cort": [
+              4909,
+              4910
+            ],
+            "spong": [
+              5009,
+              5010
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_T12",
+        "micro": "AF_T12",
+        "macro_groups": [
+          {
+            "cort": [
+              4911
+            ],
+            "spong": [
+              5011
+            ]
+          },
+          {
+            "cort": [
+              4912
+            ],
+            "spong": [
+              5012
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Lumbar_Vertebrae": {
+    "kind": "aggregate",
+    "AM": [
+      {
+        "st": "AM_L1",
+        "micro": "AM_L1",
+        "macro_groups": [
+          {
+            "cort": [
+              5101
+            ],
+            "spong": [
+              5201
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_L2",
+        "micro": "AM_L2",
+        "macro_groups": [
+          {
+            "cort": [
+              5102
+            ],
+            "spong": [
+              5202
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_L3",
+        "micro": "AM_L3",
+        "macro_groups": [
+          {
+            "cort": [
+              5103
+            ],
+            "spong": [
+              5203
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_L4",
+        "micro": "AM_L4",
+        "macro_groups": [
+          {
+            "cort": [
+              5104
+            ],
+            "spong": [
+              5204
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_L5",
+        "micro": "AM_L5",
+        "macro_groups": [
+          {
+            "cort": [
+              5105
+            ],
+            "spong": [
+              5205
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_L1",
+        "micro": "AF_L1",
+        "macro_groups": [
+          {
+            "cort": [
+              5101
+            ],
+            "spong": [
+              5201
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_L2",
+        "micro": "AF_L2",
+        "macro_groups": [
+          {
+            "cort": [
+              5102
+            ],
+            "spong": [
+              5202
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_L3",
+        "micro": "AF_L3",
+        "macro_groups": [
+          {
+            "cort": [
+              5103
+            ],
+            "spong": [
+              5203
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_L4",
+        "micro": "AF_L4",
+        "macro_groups": [
+          {
+            "cort": [
+              5104
+            ],
+            "spong": [
+              5204
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_L5",
+        "micro": "AF_L5",
+        "macro_groups": [
+          {
+            "cort": [
+              5105
+            ],
+            "spong": [
+              5205
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Femora_Proximal": {
+    "kind": "aggregate",
+    "AM": [
+      {
+        "st": "AM_FemHead",
+        "micro": "AM_FemHead",
+        "macro_groups": [
+          {
+            "cort": [
+              2800
+            ],
+            "spong": [
+              2901
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AM_FemNeck",
+        "micro": "AM_FemNeck",
+        "macro_groups": [
+          {
+            "cort": [
+              2800
+            ],
+            "spong": [
+              2900
+            ]
+          }
+        ]
+      }
+    ],
+    "AF": [
+      {
+        "st": "AF_ProxFemurHead",
+        "micro": "AF_ProxFemurHead",
+        "macro_groups": [
+          {
+            "cort": [
+              2800
+            ],
+            "spong": [
+              2901
+            ]
+          }
+        ]
+      },
+      {
+        "st": "AF_ProxFemurNeck",
+        "micro": "AF_ProxFemurNeck",
+        "macro_groups": [
+          {
+            "cort": [
+              2800
+            ],
+            "spong": [
+              2900
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Whole_Skeleton": {
+    "kind": "whole"
+  }
+}

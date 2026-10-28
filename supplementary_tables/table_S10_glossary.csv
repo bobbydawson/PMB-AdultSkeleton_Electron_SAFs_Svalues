@@ -1,0 +1,10 @@
+Term,Definition,Interpretation
+High-energy partition,"Fraction of the absorbed energy deposited in the target when the electron fluence is the same in all tissues, calculated from the tissue masses and the mass collision stopping powers at the source energy; equation (6).",An approximation that was tested against the simulated AFs at 10 MeV.
+Mass collision stopping power,"Mean energy lost in collisions per unit path length, divided by the density, in MeV cm^2 g^-1.",The part of the electron energy loss that is deposited along the track by ionization and excitation.
+CSDA range,"Path length of an electron that slows down continuously to rest, calculated as the integral of the reciprocal of the total stopping power.","Longer than the depth of penetration, because electron paths are tortuous."
+Radiation yield,Fraction of the initial electron energy converted to bremsstrahlung as the electron slows to rest.,The photon energy may be absorbed far from the electron track or may escape the body.
+LOSO cross-validation,"All energies of one site model are withheld, the function is fitted to the other models, and the AFs of the withheld model are predicted.","Tests prediction among skeletal sites of the same two cadavers, not prediction for a new individual."
+One-point calibration,The simulated retention of the withheld site at 1 MeV sets its scale factor after the retention function has been fitted to the other sites.,Only the other 24 simulated energies are scored.
+RMSE,"Square root of the mean squared prediction error, in absolute AF.",More sensitive to a few large errors than the mean absolute error.
+Reconstruction difference,RMS difference in AF between an older reconstruction of a skeletal site and its current counterpart.,Combines the change in reconstructed geometry with the statistical variation of the simulations.
+Jackknife standard error,Standard error calculated from the coefficient estimates obtained when each model is omitted in turn; equation (S1).,Describes the sensitivity of a coefficient to the omission of individual models.

@@ -1,0 +1,13 @@
+{
+  "scope": "Uniform-spongiosa-mass source, macroregion deposited-energy diagnostic only; no universal source-target SAF correction",
+  "n_source_destination_rows": 163350,
+  "n_aggregate_rows": 50,
+  "maximum_absolute_difference_from_original_aggregate": {
+    "ws_self": 6.661338147750939e-16,
+    "ws_full": 7.771561172376096e-16,
+    "ws_other_site": 9.44069041691753e-17,
+    "enhancement_total": 6.661338147750939e-16,
+    "enhancement_other_site": 1.1102230246251565e-16
+  },
+  "raw_macro_tallies_may_exceed_AF_one": "Unclipped scored deposition retained; sampling fluctuations are not corrected by renormalization."
+}

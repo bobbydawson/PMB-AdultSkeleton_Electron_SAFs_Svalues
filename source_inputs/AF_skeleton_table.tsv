@@ -1,0 +1,156 @@
+region_id	name	category	volume_cm3	density_g_cm3	mass_g						
+1300	Humeri_upper_cortical_sp	cortical	20.2323	1.904	38.5223						
+1301	Humeri_upper_cortical_mc	cortical	39.5654	1.904	75.3325						
+1600	Humeri_lower_cortical_sp	cortical	18.5945	1.904	35.4039						
+1601	Humeri_lower_cortical_mc	cortical	35.5383	1.904	67.6649						
+1900	Radii_cortical_prox_sp	cortical	6.28319	1.904	11.9632						
+1901	Radii_cortical_mc	cortical	20.5527	1.904	39.1323						
+1902	Radii_cortical_dist_sp	cortical	10.7143	1.904	20.4						
+1910	Ulnae_cortical_prox_sp	cortical	15.1194	1.904	28.7873						
+1911	Ulnae_cortical_mc	cortical	24.9909	1.904	47.5827						
+1912	Ulnae_cortical_dist_sp	cortical	4.59864	1.904	8.75581						
+2200	Wrists_and_hand_bones_cortical	cortical	55.2161	1.904	105.131						
+2400	Clavicles_cortical	cortical	17.2402	1.904	32.8253						
+2600	Rest_of_cranium_cortical	cortical	38.1055	1.904	72.5529						
+2601	Frontal_cortical	cortical	51.6419	1.904	98.3262						
+2602	Occipital_cortical	cortical	52.0173	1.904	99.0409						
+2603	Parietal_cortical	cortical	72.4235	1.904	137.894						
+2800	Femora_upper_cortical_sp	cortical	36.5466	1.904	69.5847						
+2801	Femora_upper_cortical_mc	cortical	91.8549	1.904	174.892						
+3100	Femora_lower_cortical_sp	cortical	36.6259	1.904	69.7357						
+3101	Femora_lower_cortical_mc	cortical	89.9635	1.904	171.291						
+3400	Tibiae_cortical_prox_sp	cortical	66.6879	1.904	126.974						
+3401	Tibiae_cortical_mc	cortical	137.355	1.904	261.524						
+3402	Tibiae_cortical_dist_sp	cortical	37.4563	1.904	71.3168						
+3410	Fibulae_cortical_prox_sp	cortical	18.9875	1.904	36.1522						
+3412	Fibulae_cortical_dist_sp	cortical	15.4807	1.904	29.4753						
+3420	Patellae_cortical	cortical	10.25	1.904	19.516						
+3700	Ankles_and_foot_cortical	cortical	91.1112	1.904	173.476						
+3900	Mandible_cortical	cortical	23.8414	1.904	45.394						
+4100	Pelvis_cortical	cortical	137.847	1.904	262.461						
+4301	Ribs_cortical	cortical	4.68886	1.904	8.92759						
+4302	Ribs_cortical	cortical	6.21934	1.904	11.8416						
+4303	Ribs_cortical	cortical	7.31055	1.904	13.9193						
+4304	Ribs_cortical	cortical	8.89592	1.904	16.9378						
+4305	Ribs_cortical	cortical	9.50555	1.904	18.0986						
+4306	Ribs_cortical	cortical	9.51147	1.904	18.1098						
+4307	Ribs_cortical	cortical	9.64582	1.904	18.3656						
+4308	Ribs_cortical	cortical	8.4494	1.904	16.0877						
+4309	Ribs_cortical	cortical	7.90623	1.904	15.0535						
+4310	Ribs_cortical	cortical	6.51763	1.904	12.4096						
+4311	Ribs_cortical	cortical	4.82891	1.904	9.19424						
+4312	Ribs_cortical	cortical	2.92476	1.904	5.56874						
+4500	Scapulae_cortical	cortical	63.8994	1.904	121.664						
+4701	C1_cortical	cortical	6.1508	1.904	11.7111						
+4702	C2_cortical	cortical	5.19077	1.904	9.88323						
+4703	C3_cortical	cortical	4.64198	1.904	8.83833						
+4704	C4_cortical	cortical	4.89445	1.904	9.31903						
+4705	C5_cortical	cortical	4.95716	1.904	9.43843						
+4706	C6_cortical	cortical	5.44732	1.904	10.3717						
+4707	C7_cortical	cortical	6.32073	1.904	12.0347						
+4901	T1_cortical	cortical	8.25872	1.904	15.7246						
+4902	T2_cortical	cortical	8.37087	1.904	15.9381						
+4903	T3_cortical	cortical	8.77624	1.904	16.71						
+4904	T4_cortical	cortical	8.6412	1.904	16.4528						
+4905	T5_cortical	cortical	8.60528	1.904	16.3845						
+4906	T6_cortical	cortical	8.72224	1.904	16.6071						
+4907	T7_cortical	cortical	8.82415	1.904	16.8012						
+4908	T8_cortical	cortical	8.79074	1.904	16.7376						
+4909	T9_cortical	cortical	8.85408	1.904	16.8582						
+4910	T10_cortical	cortical	9.43704	1.904	17.9681						
+4911	T11_cortical	cortical	9.90904	1.904	18.8668						
+4912	T12_cortical	cortical	10.9132	1.904	20.7787						
+5101	L1_cortical	cortical	15.4775	1.904	29.4692						
+5102	L2_cortical	cortical	16.0433	1.904	30.5464						
+5103	L3_cortical	cortical	17.2905	1.904	32.9211						
+5104	L4_cortical	cortical	17.5167	1.904	33.3518						
+5105	L5_cortical	cortical	15.6966	1.904	29.8863						
+5300	Sacrum_cortical	cortical	42.1431	1.904	80.2405						
+5500	Sternum_cortical	cortical	0.885135	1.904	1.6853						
+											
+											
+											
+											Endosteum Mass
+1500	Humeri_upper_medullary_cavity	medullary	0.353093	0.981	0.346384		AF_Femora_Lower_Shafts	57.854944	1.962	56.755706	0.657706
+1501	Humeri_upper_medullary_cavity_inner	medullary	20.5526	0.981	20.1621		AF_Femora_Upper_Shafts	40.256726	1.962	39.491873	0.513873
+1800	Humeri_lower_medullary_cavity	medullary	0.368618	0.981	0.361614		AF_Fibulae_Shafts				
+1801	Humeri_lower_medullary_cavity_inner	medullary	20.5102	0.981	20.1205		AF_Humeri_Lower_Shafts	20.878818	1.962	20.482114	0.361614
+2100	Radii_medullary_cavity	medullary	0.428544	0.981	0.420402		AF_Humeri_Upper_Shafts	20.905693	1.962	20.508484	0.346384
+2101	Radii_medullary_cavity_inner	medullary	20.5127	0.981	20.123		AF_Radii_Shafts	20.941244	1.962	20.543402	0.420402
+2110	Ulnae_medullary_cavity	medullary	0.342724	0.981	0.336212		AF_Tibiae_Shafts	90.60488	1.962	88.88338	1.18728
+2111	Ulnae_medullary_cavity_inner	medullary	13.444	0.981	13.1886		AF_Ulnae_Shafts	13.786724	1.962	13.524812	0.336212
+3000	Femora_upper_medullary_cavity	medullary	0.523826	0.981	0.513873						
+3001	Femora_upper_medullary_cavity_inner	medullary	39.7329	0.981	38.978			265.229029			
+3300	Femora_lower_medullary_cavity	medullary	0.670444	0.981	0.657706						
+3301	Femora_lower_medullary_cavity_inner	medullary	57.1845	0.981	56.098			265.229029			
+3600	Tibiae_medullary_cavity	medullary	1.21028	0.981	1.18728						
+3601	Tibiae_medullary_cavity_inner	medullary	89.3946	0.981	87.6961						
+											
+											
+											
+							AF_Wrists_And_Hands	62.0951	1.079032	67.0026	
+1400	Humeri_upper_spongiosa	spongiosa	90.9008	1.051566	95.5882		AF_C3	26.74869	3.512883	31.3217	
+1700	Humeri_lower_spongiosa	spongiosa	44.9992	1.079032	48.5556		AF_C6	40.21426	4.683844	47.0894	
+2001	Radii_upper_spongiosa	spongiosa	12.5837	1.054754	13.2727		AF_Clavicle	32.5488	1.047445	34.0931	
+2002	Radii_lower_spongiosa	spongiosa	23.8774	1.046937	24.9981		AF_Distal_Femur	148.911	1.151136	171.417	
+2011	Ulnae_upper_spongiosa	spongiosa	35.4947	1.143481	40.5875		AF_Distal_Fibula	32.9704	1.071314	35.3217	
+2012	Ulnae_lower_spongiosa	spongiosa	5.76964	1.027776	5.9299		AF_Distal_Humerus	44.9992	1.079032	48.5556	
+2300	Wrists_and_hand_bones_spongiosa	spongiosa	62.0951	1.079032	67.0026		AF_Distal_Radius	23.8774	1.046937	24.9981	
+2500	Clavicles_spongiosa	spongiosa	32.5488	1.047445	34.0931		AF_Distal_Tibia	141.694	1.074615	152.267	
+2700	Rest_of_cranium_spongiosa	spongiosa	86.7431	1.282672	111.263		AF_Distal_Ulna	5.76964	1.027776	5.9299	
+2701	Frontal_spongiosa	spongiosa	74.1468	1.282672	95.106		AF_Foot	230.484	1.135673	261.754	
+2702	Occipital_spongiosa	spongiosa	67.8848	1.455354	98.7964		AF_Frontal	160.8899	2.565344	206.369	
+2703	Parietal_spongiosa	spongiosa	83.4027	1.471974	122.767		AF_L1	40.2181	1.128599	45.3901	
+2900	Femora_upper_spongiosa_remaining	spongiosa	163.223	1.07771	175.907		AF_L2	41.2667	1.082845	44.6854	
+2901	Femora_upper_spongiosa_head	spongiosa	59.0436	1.188357	70.1649		AF_L3	47.2203	1.082643	51.1227	
+3200	Femora_lower_spongiosa	spongiosa	148.911	1.151136	171.417		AF_L4	47.965	1.08639	52.1087	
+3501	Tibiae_upper_spongiosa	spongiosa	274.184	1.078191	295.623		AF_L5	50.7768	1.128599	57.3066	
+3502	Tibiae_lower_spongiosa	spongiosa	141.694	1.074615	152.267		AF_Mandible	28.1571	1.110386	31.2653	
+3511	Fibulae_upper_spongiosa	spongiosa	29.436	1.056175	31.0896		AF_Occipital	67.8848	1.455354	98.7964	
+3512	Fibulae_lower_spongiosa	spongiosa	32.9704	1.071314	35.3217		AF_OsCoxae	412.306	1.036995	427.559	
+3520	Patellae_spongiosa	spongiosa	21.5601	1.095241	23.6135		AF_Parietal	83.4027	1.471974	122.767	
+3800	Ankles_and_foot_spongiosa	spongiosa	230.484	1.135673	261.754		AF_Patella	21.5601	1.095241	23.6135	
+4000	Mandible_spongiosa	spongiosa	28.1571	1.110386	31.2653		AF_ProxFemurHead	59.0436	1.188357	70.1649	
+4200	Pelvis_spongiosa	spongiosa	412.306	1.036995	427.559		AF_ProxFemurNeck	163.223	1.07771	175.907	
+4401	Ribs_spongiosa	spongiosa	15.5905	1.071402	16.7037		AF_ProxFibula	29.436	1.056175	31.0896	
+4402	Ribs_spongiosa	spongiosa	19.3994	1.071402	20.7846		AF_ProxHumerus	90.9008	1.051566	95.5882	
+4403	Ribs_spongiosa	spongiosa	19.7169	1.071402	21.1247		AF_ProxRadius	12.5837	1.054754	13.2727	
+4404	Ribs_spongiosa	spongiosa	25.8465	1.071402	27.692		AF_ProxTibia	274.184	1.078191	295.623	
+4405	Ribs_spongiosa	spongiosa	27.0894	1.071402	29.0236		AF_ProxUlna	35.4947	1.143481	40.5875	
+4406	Ribs_spongiosa	spongiosa	28.7356	1.071402	30.7874		AF_RibLower	118.75038	6.485364	128.35657	
+4407	Ribs_spongiosa	spongiosa	29.2394	1.080894	31.6047		AF_RibUpper	136.3783	6.428412	146.116	
+4408	Ribs_spongiosa	spongiosa	26.2101	1.080894	28.3303		AF_Sacrum	147.186	1.108352	163.134	
+4409	Ribs_spongiosa	spongiosa	22.0963	1.080894	23.8838		AF_Scapula	85.9823	1.035941	89.0726	
+4410	Ribs_spongiosa	spongiosa	19.7348	1.080894	21.3312		AF_Sternum	47.8536	1.069478	51.1784	
+4411	Ribs_spongiosa	spongiosa	13.5398	1.080894	14.6351		AF_T1	34.2268	2.289314	39.178	
+4412	Ribs_spongiosa	spongiosa	7.92998	1.080894	8.57147		AF_T3	32.0214	2.289314	36.6535	
+4600	Scapulae_spongiosa	spongiosa	85.9823	1.035941	89.0726		AF_T6	56.0454	3.433971	64.1528	
+4801	C1_spongiosa	spongiosa	8.44023	1.170961	9.88318		AF_T9	71.106	3.433971	81.392	
+4802	C2_spongiosa	spongiosa	10.1302	1.170961	11.8621		AF_T12	58.374	2.289314	66.8182	
+4803	C3_spongiosa	spongiosa	8.17826	1.170961	9.57642						
+4804	C4_spongiosa	spongiosa	8.60392	1.170961	10.0749			3244.74997	69.667722	3629.01877	
+4805	C5_spongiosa	spongiosa	8.76484	1.170961	10.2633						
+4806	C6_spongiosa	spongiosa	10.0697	1.170961	11.7912			0	0	0	
+4807	C7_spongiosa	spongiosa	12.7758	1.170961	14.96						
+5001	T1_spongiosa	spongiosa	16.8833	1.144657	19.3256						
+5002	T2_spongiosa	spongiosa	17.3435	1.144657	19.8524						
+5003	T3_spongiosa	spongiosa	15.9042	1.144657	18.2048						
+5004	T4_spongiosa	spongiosa	16.1172	1.144657	18.4487						
+5005	T5_spongiosa	spongiosa	17.2311	1.144657	19.7237						
+5006	T6_spongiosa	spongiosa	19.1646	1.144657	21.9369						
+5007	T7_spongiosa	spongiosa	19.6497	1.144657	22.4922						
+5008	T8_spongiosa	spongiosa	21.9019	1.144657	25.0702						
+5009	T9_spongiosa	spongiosa	24.3079	1.144657	27.8242						
+5010	T10_spongiosa	spongiosa	24.8962	1.144657	28.4976						
+5011	T11_spongiosa	spongiosa	26.5559	1.144657	30.3974						
+5012	T12_spongiosa	spongiosa	31.8181	1.144657	36.4208						
+5201	L1_spongiosa	spongiosa	40.2181	1.128599	45.3901						
+5202	L2_spongiosa	spongiosa	41.2667	1.082845	44.6854						
+5203	L3_spongiosa	spongiosa	47.2203	1.082643	51.1227						
+5204	L4_spongiosa	spongiosa	47.965	1.08639	52.1087						
+5205	L5_spongiosa	spongiosa	50.7768	1.128599	57.3066						
+5400	Sacrum_spongiosa	spongiosa	147.186	1.108352	163.134						
+5600	Sternum_spongiosa	spongiosa	47.8536	1.069478	51.1784						
+	TOTAL		5207.88		7122.02						
+											
+			3244.74997	69.667722	3629.01877						

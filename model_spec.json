@@ -1,0 +1,219 @@
+{
+  "particle": "electron",
+  "AF_quantity": "phi_mu; dimensionless",
+  "models": {
+    "RBM<-RBM": {
+      "parameter_names": [
+        "a1",
+        "b1",
+        "c1",
+        "a2",
+        "b2",
+        "c2"
+      ],
+      "starting_point": [
+        2.0,
+        1.0,
+        0.2,
+        2.0,
+        0.5,
+        0.2
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        "unbounded"
+      ]
+    },
+    "Endosteum<-RBM": {
+      "parameter_names": [
+        "a",
+        "b",
+        "c"
+      ],
+      "starting_point": [
+        1.0,
+        0.3,
+        0.05
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded"
+      ]
+    },
+    "RBM<-YBM": {
+      "parameter_names": [
+        "a1",
+        "b1",
+        "c1",
+        "a2",
+        "b2",
+        "c2"
+      ],
+      "starting_point": [
+        1.0,
+        1.0,
+        0.1,
+        2.0,
+        0.5,
+        0.2
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        "unbounded"
+      ]
+    },
+    "Endosteum<-YBM": {
+      "parameter_names": [
+        "a",
+        "b",
+        "c"
+      ],
+      "starting_point": [
+        1.0,
+        0.3,
+        0.05
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded"
+      ]
+    },
+    "RBM<-TBS": {
+      "parameter_names": [
+        "a",
+        "b",
+        "c"
+      ],
+      "starting_point": [
+        1.0,
+        0.5,
+        0.2
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded"
+      ]
+    },
+    "Endosteum<-TBS": {
+      "parameter_names": [
+        "a",
+        "b",
+        "c"
+      ],
+      "starting_point": [
+        1.0,
+        0.5,
+        0.2
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded"
+      ]
+    },
+    "RBM<-TBV": {
+      "parameter_names": [
+        "a",
+        "b",
+        "c"
+      ],
+      "starting_point": [
+        1.0,
+        1.0,
+        0.2
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded"
+      ]
+    },
+    "Endosteum<-TBV": {
+      "parameter_names": [
+        "a",
+        "b",
+        "c",
+        "g",
+        "s"
+      ],
+      "starting_point": [
+        1.0,
+        1.0,
+        0.2,
+        0.2,
+        1.0
+      ],
+      "lower_bounds": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.05
+      ],
+      "upper_bounds": [
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        "unbounded",
+        50.0
+      ]
+    }
+  },
+  "loss": "soft_l1",
+  "f_scale": 0.05,
+  "central_fit_initialization": "prespecified p0",
+  "fold_initialization": "same prespecified p0 without held-out rows",
+  "prediction_clipping": false
+}

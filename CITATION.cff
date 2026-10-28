@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the article and this repository."
+title: "Adult skeleton electron SAFs and S values (ICRP reference adults, mesh-based skeletal models)"
+type: dataset
+authors:
+  - family-names: Dawson
+    given-names: Robert J.
+    orcid: "https://orcid.org/0000-0002-0984-4088"
+  - family-names: Choi
+    given-names: Chansoo
+    orcid: "https://orcid.org/0000-0002-8203-9835"
+  - family-names: Shin
+    given-names: Bangho
+    orcid: "https://orcid.org/0000-0003-1828-1288"
+  - family-names: Wang
+    given-names: Yitian
+    orcid: "https://orcid.org/0009-0001-8955-4362"
+  - family-names: Tran-Gia
+    given-names: Johannes
+    orcid: "https://orcid.org/0000-0001-9552-7750"
+  - family-names: Salas Ramirez
+    given-names: Maikol
+    orcid: "https://orcid.org/0000-0002-2443-9654"
+  - family-names: Theisen
+    given-names: Anna-Lena
+    orcid: "https://orcid.org/0009-0005-1679-5885"
+  - family-names: Lassmann
+    given-names: Michael
+    orcid: "https://orcid.org/0000-0002-2556-1977"
+  - family-names: Jokisch
+    given-names: Derek W.
+    orcid: "https://orcid.org/0000-0002-1567-5268"
+  - family-names: Bertolet
+    given-names: Alejandro
+    orcid: "https://orcid.org/0000-0002-9890-693X"
+  - family-names: Bolch
+    given-names: Wesley E.
+    orcid: "https://orcid.org/0000-0002-7175-9968"
+license: CC-BY-4.0
+repository-code: "https://github.com/bobbydawson/PMB-AdultSkeleton_Electron_SAFs_Svalues"
+date-released: 2026-10-28
+preferred-citation:
+  type: article
+  title: "Mesh-based detailed skeletal models for the ICRP Reference Adults: Part 3. electron specific absorbed fractions"
+  journal: "Physics in Medicine & Biology"
+  year: 2026
+  notes: "Submitted."
+  authors:
+    - family-names: Dawson
+      given-names: Robert J.
+    - family-names: Choi
+      given-names: Chansoo
+    - family-names: Shin
+      given-names: Bangho
+    - family-names: Wang
+      given-names: Yitian
+    - family-names: Tran-Gia
+      given-names: Johannes
+    - family-names: Salas Ramirez
+      given-names: Maikol
+    - family-names: Theisen
+      given-names: Anna-Lena
+    - family-names: Lassmann
+      given-names: Michael
+    - family-names: Jokisch
+      given-names: Derek W.
+    - family-names: Bertolet
+      given-names: Alejandro
+    - family-names: Bolch
+      given-names: Wesley E.

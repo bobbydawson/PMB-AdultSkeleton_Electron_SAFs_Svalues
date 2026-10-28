@@ -1,0 +1,79 @@
+column,unit,description,nullable
+site,label,model component holdout key,False
+Target,label,microscale target region,False
+Source,label,microscale source region,False
+E_MeV,MeV,Initial source kinetic energy,False
+AF,dimensionless,Reflective-boundary microscale absorbed fraction phi_mu,False
+sex,label,AM male or AF female,False
+site_class,label,coarse anatomical class,False
+tbvf,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+cf,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+tbvf_nominal,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+cf_nominal,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+V_TB,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_shRBM,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_shYBM,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_dYBM,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_dRBM,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_tot,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_marrow,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_RBM,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_YBM,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+V_endo,mm^3,Model descriptor; see DATA_DICTIONARY.md,False
+S_RBM,mm^2,Bone-marrow contact surface area,False
+S_YBM,mm^2,Bone-marrow contact surface area,False
+S,mm^2,Bone-marrow contact surface area,False
+BS_BV,mm^-1,Model descriptor; see DATA_DICTIONARY.md,False
+BS_TV,mm^-1,Model descriptor; see DATA_DICTIONARY.md,False
+l_marrow_cm,cm,Model descriptor; see DATA_DICTIONARY.md,False
+l_trab_cm,cm,Model descriptor; see DATA_DICTIONARY.md,False
+TbTh_mm,mm,Model descriptor; see DATA_DICTIONARY.md,False
+TbSp_mm,mm,Model descriptor; see DATA_DICTIONARY.md,False
+TbN_per_mm,mm^-1,Model descriptor; see DATA_DICTIONARY.md,False
+f_S_RBM,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+f_sh_RBM,dimensionless,Model descriptor; see DATA_DICTIONARY.md,True
+f_sh_YBM,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+f_endo,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+cf_shallow,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+m_RBM_g,g,Model descriptor; see DATA_DICTIONARY.md,False
+m_endo_g,g,Model descriptor; see DATA_DICTIONARY.md,False
+bvtv_from_vols,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+cf_from_vols,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+R_RBM_cm,cm,Model descriptor; see DATA_DICTIONARY.md,False
+R_YBM_cm,cm,Model descriptor; see DATA_DICTIONARY.md,False
+R_TB_cm,cm,Model descriptor; see DATA_DICTIONARY.md,False
+R_marrow_cm,cm,Model descriptor; see DATA_DICTIONARY.md,False
+u_R,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+u_Y,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+u_m,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+x_m,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+x_t,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+sp_TB,MeV cm^2 g^-1,Mass collision stopping power at initial source energy,False
+sp_RBM,MeV cm^2 g^-1,Mass collision stopping power at initial source energy,False
+sp_YBM,MeV cm^2 g^-1,Mass collision stopping power at initial source energy,False
+f_eq_RBM,dimensionless,Initial-energy stopping-power partition approximation,False
+f_meq_RBM,dimensionless,Initial-energy stopping-power partition approximation,False
+f_eq_endo,dimensionless,Initial-energy stopping-power partition approximation,False
+phi_M,dimensionless,Native component macroscale spongiosa self-AF phi_M,False
+m_spong_g,g,Model descriptor; see DATA_DICTIONARY.md,False
+V_spong_cm3,cm^3,Model descriptor; see DATA_DICTIONARY.md,False
+L_spong_cm,cm,Model descriptor; see DATA_DICTIONARY.md,False
+w_R,dimensionless,Model descriptor; see DATA_DICTIONARY.md,False
+AF_site,dimensionless,Composed native component AF=AF*phi_M,False
+pair,label,target <- source pair,False
+trivial_zero,boolean,Excluded from all fits when true,False
+holdout_old,boolean,Excluded from all fits when true,False
+Isotope,,One of the 19 progeny of the ten alpha-emitting radionuclides,
+Total,mGy MBq^-1 s^-1,Parent-only electron S value (Electron + Beta) of the named progeny,
+model,,Microscale model,
+source,,Source region,
+energy_index,,"Energy index, 1 to 26 on the microscale grid",
+histories,,Number of source particles run,
+termination,,How the run ended,
+rel_err_TB,,"Relative uncertainty, trabecular bone",
+rel_err_shallow_RBM,,"Relative uncertainty, shallow RBM",
+rel_err_shallow_YBM,,"Relative uncertainty, shallow YBM",
+rel_err_deep_YBM,,"Relative uncertainty, deep YBM",
+rel_err_deep_RBM,,"Relative uncertainty, deep RBM",
+rel_err_endosteum_target,,Relative uncertainty of the endosteal target tally,
+rel_err_RBM_target,,Relative uncertainty of the RBM target tally,

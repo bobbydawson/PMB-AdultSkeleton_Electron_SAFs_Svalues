@@ -1,0 +1,50 @@
+{
+  "method": "Independent direct PCHIP folding of packaged parent-only electron and beta spectra; no alpha/recoil/photon/daughter contribution",
+  "conversion_mGy_kg_per_MeV_MBq_s": 0.0001602176634,
+  "n_S_values": 384,
+  "energy_grid_MeV": [
+    0.0,
+    0.01,
+    0.015,
+    0.02,
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.08,
+    0.1,
+    0.15,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.8,
+    1.0,
+    1.5,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    8.0,
+    10.0
+  ],
+  "comparison_with_original_after_exact_SI_conversion": {
+    "Total": {
+      "max_abs_difference_from_conversion_only": 1.0164395367051604e-20,
+      "max_relative_difference_nonzero": 9.541936880748437e-14
+    },
+    "Electron": {
+      "max_abs_difference_from_conversion_only": 8.470329472543003e-22,
+      "max_relative_difference_nonzero": 1.7052210253024476e-13
+    },
+    "Beta": {
+      "max_abs_difference_from_conversion_only": 8.470329472543003e-21,
+      "max_relative_difference_nonzero": 1.2784066714020578e-14
+    }
+  },
+  "comparison_scope": "All sources except TBS (TBS source fractions recomputed 20 September 2026)",
+  "n_S_values_compared": 320,
+  "SAF_sha256": "381e63e80327232d17d4b8e9cd2dd744dc4f0750e4f113d9b6c9347c681ed961"
+}
